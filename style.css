@@ -26,6 +26,9 @@ h2{
     font-size: 1.5em;
     margin-top: 1em;
 }
+body{
+    visibility: hidden;
+}
 
 .main {
     width: 100vw;
