@@ -27,7 +27,7 @@ h2{
     margin-top: 1em;
 }
 body{
-    visibility: hidden;
+    visibility: visible;
 }
 
 .main {
